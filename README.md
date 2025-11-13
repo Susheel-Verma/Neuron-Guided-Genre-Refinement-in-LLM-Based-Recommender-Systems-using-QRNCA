@@ -46,7 +46,7 @@ The approach identifies neuron clusters relevant to each movie genre and refines
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/QRNCA-DLCRec.git
+   git clone https://github.com/Susheel-Verma/Neuron-Guided-Genre-Refinement-in-LLM-Based-Recommender-Systems-using-QRNCA.git
    cd QRNCA-DLCRec
    ```
 
